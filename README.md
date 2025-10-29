@@ -5,8 +5,13 @@
 - **Universidad**: ULPGC - GII (Grado en Ingeniería Informática)
 - **Asignatura**: Informática Gráfica
 
+
+## Enlace al código en codesandbox.io
+[Clica aquí](https://codesandbox.io/p/sandbox/ig2526-s7-forked-frl3xd)
+
+
 ## Video de la demo
-Aquí se muestra un video demostrativo de la aplicación.## 🎬 Video de la demo
+Aquí se muestra un video demostrativo de la demo (haz clic sobre el para ver el video)
 [![Ver demo](https://img.youtube.com/vi/k1bgapVHT_w/0.jpg)](https://youtu.be/k1bgapVHT_w)
 
 
