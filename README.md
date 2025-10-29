@@ -6,8 +6,8 @@
 - **Asignatura**: Informática Gráfica
 
 ## Video de la demo
-Aquí se muestra un video demostrativo de la aplicación.
-[▶️ Ver video de la demo en GitHub](https://github.com/maikos08/practica-6-7-ig/blob/master/Demo.mp4)
+Aquí se muestra un video demostrativo de la aplicación.## 🎬 Video de la demo
+[![Ver demo](https://img.youtube.com/vi/k1bgapVHT_w/0.jpg)](https://youtu.be/k1bgapVHT_w)
 
 
 ## Controles de la demo
