@@ -7,15 +7,8 @@
 
 ## Video de la demo
 Aquí se muestra un video demostrativo de la aplicación.
+[▶️ Ver video de la demo en GitHub](https://github.com/maikos08/practica-6-7-ig/blob/master/Demo.mp4)
 
-```html
-<video width="640" height="360" controls>
-  <source src="Demo.mp4" type="video/mp4">
-  Tu navegador no soporta la reproducción de vídeo.
-</video>
-```
-
-(Opcionalmente, si subes el vídeo a una plataforma como YouTube o Vimeo en el futuro, reemplaza este snippet con el enlace correspondiente).
 
 ## Controles de la demo
 - **Vista general**: Usa el mouse para orbitar, zoom y panear con los controles OrbitControls.
